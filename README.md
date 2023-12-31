@@ -34,6 +34,6 @@ Feel free to reach out if you have any recommendations or insights on these topi
 
 ## Let's Connect
 
-- **LinkedIn:** [Dabin's Profile](www.linkedin.com/in/dabin0219)
+- **LinkedIn:** [Dabin's Profile](https://www.linkedin.com/in/dabin0219)
 
 I'm always open to collaboration and excited about connecting with fellow developers. Let's build something amazing together! 🚀
